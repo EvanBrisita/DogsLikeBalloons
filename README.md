@@ -12,3 +12,7 @@ Clone and then run the executable.
 -Land enough arrows in a row to slow down time!
 
 -Don't let enemies past you!
+
+# About
+
+Made in GameMaker by Evan Brisita
